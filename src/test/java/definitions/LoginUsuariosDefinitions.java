@@ -103,8 +103,6 @@ public class LoginUsuariosDefinitions {
 
     @Then("el usuario esta en la pagina de inicio")
     public void elUsuarioEstaEnLaPaginaDeInicio() {
-        //La pagina tiene errores, no deja ingresar
-        //An internal error has occurred and has been logged.
-        //Por esta razon no se puede capturar el elemento para validar el logeo correcto.
+        //El login no funciona, sale un error del servidor de la pagina
     }
 }
