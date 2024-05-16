@@ -31,5 +31,5 @@ Feature: El usuario quiere hacer un registro y el login respectivo en la web.
     Then el usuario esta en la pagina de inicio
     Examples:
       | username | password |
-      | naye0103 | Clave123 |
+      | Juanca111 | Juanca111 |
 
